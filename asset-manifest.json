@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClientForm/static/css/main.118e1380.css",
+    "main.js": "/ClientForm/static/js/main.a6c752cf.js",
+    "static/js/453.ed3810f9.chunk.js": "/ClientForm/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/ClientForm/index.html",
+    "main.118e1380.css.map": "/ClientForm/static/css/main.118e1380.css.map",
+    "main.a6c752cf.js.map": "/ClientForm/static/js/main.a6c752cf.js.map",
+    "453.ed3810f9.chunk.js.map": "/ClientForm/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118e1380.css",
+    "static/js/main.a6c752cf.js"
+  ]
+}
